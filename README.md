@@ -1,6 +1,6 @@
 # HackerLab Bénin 2026 — Qualifications Writeups
 
-Writeups des qualifications du **HackerLab Bénin 2026**, compétition CTF *jeopardy-style* sur le thème **« Sous le masque numérique »**, organisée par **ASIN**.
+Writeups des qualifications du **HackerLab Bénin 2026**, compétition CTF *jeopardy-style* sur le thème **« Sous le masque numérique »**, organisée par **l'ASIN**.
 
 > **Portail :** 13 319 points — 21/21 missions.
 
