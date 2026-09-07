@@ -1,6 +1,6 @@
 # Brainiac
 
-**Catégorie** : BRAINFUCK / OSINT & FORENSIC | **Points** : 400 | **Auteur du challenge** : W1z4rd
+**Catégorie** : BRAINFUCK / OSINT & FORENSIC | **Points** : 400 | **Auteur du challenge** : [W1z4rd](https://github.com/W1z4rd)
 
 ## Description
 
