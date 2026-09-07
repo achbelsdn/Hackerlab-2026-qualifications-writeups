@@ -2,7 +2,7 @@
 
 Writeups des qualifications du **HackerLab Bénin 2026**, compétition CTF *jeopardy-style* sur le thème **« Sous le masque numérique »**, organisée par **ASIN**.
 
-> **Score de l’équipe observé sur le portail :** 13 319 points — rang #14 — 21/21 missions validées.
+> **Portail :** 13 319 points — 21/21 missions.
 
 ## Challenges
 
