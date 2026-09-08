@@ -1,6 +1,6 @@
 # 403 Forbidden News
 
-**Catégorie** : WEB | **Points** : 200 | **Auteur du challenge** : À compléter
+**Catégorie** : WEB | **Points** : 200 | **Auteur du challenge** : [mak0ra](https://github.com/mak0ra)
 
 ## Description
 

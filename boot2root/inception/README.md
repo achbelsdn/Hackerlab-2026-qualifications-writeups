@@ -1,6 +1,6 @@
 # Inception
 
-**Catégorie** : BOOT2ROOT | **Points** : 1940 | **Auteur du challenge** : À compléter
+**Catégorie** : BOOT2ROOT | **Points** : 1940 | **Auteur du challenge** : [W1z4rd](https://github.com/W1z4rd)
 
 ## Description
 

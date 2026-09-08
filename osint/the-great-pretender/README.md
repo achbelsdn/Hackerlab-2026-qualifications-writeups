@@ -1,6 +1,6 @@
 # The Great Pretender
 
-**Catégorie** : OSINT - AI | **Points** : 500 | **Auteur du challenge** : À compléter
+**Catégorie** : OSINT - AI | **Points** : 500 | **Auteur du challenge** : [Sh1n](https://github.com/Sh1n)
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Eidolon
 
-**Catégorie** : OSINT | **Points** : 370 | **Auteur du challenge** : À compléter
+**Catégorie** : OSINT | **Points** : 370 | **Auteur du challenge** : [Sh1n](https://github.com/Sh1n)
 
 ## Description
 

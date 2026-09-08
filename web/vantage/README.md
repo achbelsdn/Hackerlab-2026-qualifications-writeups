@@ -1,6 +1,6 @@
 # Vantage
 
-**Catégorie** : WEB | **Points** : 200 | **Auteur du challenge** : À compléter
+**Catégorie** : WEB | **Points** : 200 | **Auteur du challenge** : [0xS0ra](https://github.com/0xS0ra)
 
 ## Description
 

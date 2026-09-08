@@ -1,6 +1,6 @@
 # GhostWriter
 
-**Catégorie** : FORENSICS | **Points** : 380 | **Auteur du challenge** : À compléter
+**Catégorie** : FORENSICS | **Points** : 380 | **Auteur du challenge** : 5c0r7
 
 ## Description
 

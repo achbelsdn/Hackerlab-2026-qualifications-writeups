@@ -1,6 +1,6 @@
 # Framed
 
-**Catégorie** : FORENSICS | **Points** : 700 | **Auteur du challenge** : À compléter
+**Catégorie** : FORENSICS | **Points** : 700 | **Auteur du challenge** : [r3s0lv3r](https://github.com/r3s0lv3r)
 
 ## Description
 

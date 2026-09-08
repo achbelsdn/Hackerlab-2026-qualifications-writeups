@@ -1,6 +1,6 @@
 # Eaux Troubles
 
-**Catégorie** : FORENSICS | **Points** : 860 | **Auteur du challenge** : À compléter
+**Catégorie** : FORENSICS | **Points** : 860 | **Auteur du challenge** : [uchiwa](https://github.com/uchiwa)
 
 ## Description
 

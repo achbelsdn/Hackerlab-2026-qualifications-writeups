@@ -1,6 +1,6 @@
 # Designated Survivor
 
-**Catégorie** : NETWORK | **Points** : 200 | **Auteur du challenge** : À compléter
+**Catégorie** : NETWORK | **Points** : 200 | **Auteur du challenge** : The Chall Makers
 
 ## Description
 

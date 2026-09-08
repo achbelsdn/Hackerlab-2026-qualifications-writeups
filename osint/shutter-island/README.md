@@ -1,6 +1,6 @@
 # Shutter Island
 
-**Catégorie** : OSINT / WEB / DFIR | **Points** : 2029 | **Auteur du challenge** : À compléter
+**Catégorie** : OSINT / WEB / DFIR | **Points** : 2029 | **Auteur du challenge** : [W1z4rd](https://github.com/W1z4rd)
 
 ## Description
 
