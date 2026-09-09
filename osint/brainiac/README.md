@@ -4,7 +4,9 @@
 
 ## Description
 
-Grâce aux événements précédents, vous avez découvert que l3_r3lais a mis sur pied une plateforme destinée à diffuser sa campagne de désinformation, gérée par un bot Telegram. Votre objectif est d’entrer en contact avec ce bot, de récupérer le lien vers la plateforme et, éventuellement, de la saisir plus tard en votre qualité de CERT. C’est le seul moyen de mettre fin à cette campagne.
+Grâce aux événements précédents, vous avez découvert que l3_r3lais a mis sur pied une plateforme destinée à diffuser sa campagne de désinformation, gérée par un bot Telegram.
+
+Votre objectif est d’entrer en contact avec ce bot, de récupérer le lien vers la plateforme et, éventuellement, de la saisir plus tard en votre qualité de CERT. C’est le seul moyen de mettre fin à cette campagne.
 
 ## Recon / Enumeration
 

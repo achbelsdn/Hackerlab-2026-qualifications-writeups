@@ -4,7 +4,11 @@
 
 ## Description
 
-Le SOC a détecté un trafic sortant anormal depuis le poste d’un agent de règlement. L’analyse préliminaire suggère un spear-phishing ciblé : un courriel frauduleux a été envoyé à j.aterbe@bct.gov.trv depuis un contact apparent de VARELCORP. Vous êtes mandatés par le TCDA (Centre de Cyberdéfense de Tervalis) pour reconstituer l’attaque complète et en attribuer l’origine. Point d’entrée observé : https://tinyurl.com/48u2a9tt
+Le SOC a détecté un trafic sortant anormal depuis le poste d'un agent de règlement. L'analyse préliminaire suggère un spear-phishing ciblé : un courriel frauduleux a été envoyé à **j.aterbe@bct.gov.trv ** d'un contact apparant de VARELCORP.
+
+Vous êtes mandatés par le **TCDA** (Centre de Cyberdéfense de Tervalis) pour reconstituer l'attaque complète et en attribuer l'origine.
+
+https://tinyurl.com/48u2a9tt
 
 ## Recon / Enumeration
 

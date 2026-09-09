@@ -4,7 +4,11 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+La Banque Centrale de Tervalis a signalé au CERT de Tervalis une opération financière inhabituelle sur son portail interne BCT Ops, enregistrée le 30 juillet 2026. Un virement de plusieurs millions d'euros a été émis vers un établissement bancaire étranger avec un motif qui ne correspond à aucune opération connue des services internes.
+
+Les journaux de BCT Ops semblent désigner un unique responsable : Marc de Lacroix, administrateur du portail. La direction de la banque évoque une procédure disciplinaire et une plainte à son encontre.
+
+Ce dernier nie toute implication. Votre équipe est chargée d'analyser les éléments techniques disponibles afin de reconstituer les événements et déterminer l'origine de la transaction.
 
 ## Recon / Enumeration
 

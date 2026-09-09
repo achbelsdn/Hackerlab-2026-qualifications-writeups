@@ -4,7 +4,9 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+La Sentinelle s'apprête à publier une édition spéciale qui désigne Varelia comme commanditaire des attaques. Le dossier s'appuie sur des preuves que nous n'avons pas, et une fois en ligne, il sera repris partout.
+
+Nous avons besoin de temps pour établir la vérité.
 
 ## Recon / Enumeration
 

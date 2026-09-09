@@ -4,7 +4,7 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Des mois que des balises saignent Tervalis de l'intérieur. On a remonté la piste jusqu'à Spectre, la console qui les pilote depuis Kaltyr, et pour une fois on est dedans. Vous avez un accès analyste : vous voyez toute la flotte, vous ne lancez rien. Le moteur de rapports que la console garde à l'intérieur reste hors de portée, et l'opérateur qui relit vos rapports a la clé qui l'ouvre.
 
 ## Recon / Enumeration
 

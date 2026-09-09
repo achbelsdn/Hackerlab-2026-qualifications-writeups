@@ -4,7 +4,7 @@
 
 ## Description
 
-Vous venez d’être affecté au CERT-TVS. Avant votre première opération, prenez connaissance du dossier de briefing. Chaque réponse se trouve dans la page Univers.
+Vous venez d'être affecté au CERT-TVS. Avant votre première opération, prenez connaissance du dossier de briefing. Chaque réponse se trouve dans la page Univers.
 
 ## Recon / Enumeration
 

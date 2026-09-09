@@ -4,7 +4,11 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Pendant les activités de monitoring du CERT Tervalis, vous avez remarqué qu’une fuite de données a eu lieu au sein d’AquaTerv.
+
+Plusieurs informations sensibles ont été divulguées, notamment des données relatives au réseau urbain de la ville d’Averis.
+
+Votre mission, si vous l’acceptez, est d’aider AquaTerv à déterminer quelles données ont été divulguées, comment elles ont été exfiltrées, ainsi que l’ensemble des éléments permettant de comprendre l’origine et l’ampleur de la fuite
 
 ## Recon / Enumeration
 

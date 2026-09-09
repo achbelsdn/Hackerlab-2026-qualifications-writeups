@@ -4,7 +4,9 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Six affaires. Six dossiers instruits séparément par le CERT-Tervalis: une centrale d'eau, une banque, un hôpital, un opérateur électrique, un fournisseur d'eau urbain, un mail de phishing. Chacune a été refermée à sa manière.
+
+Avant que votre cellule ne soit affectée à la suite, le TCDA exige un rapport provisoire d'incidents : une synthèse de ce que votre équipe a réellement établi sur ces six dossiers, et une conclusion sur qui, selon vous, en est responsable.
 
 ## Recon / Enumeration
 

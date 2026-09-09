@@ -4,7 +4,7 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Une seule pièce tient toute l'accusation contre Varelia : un certificat de signature électronique au nom de VARELCORP et de son ingénieur Mateus Varga.
 
 ## Recon / Enumeration
 

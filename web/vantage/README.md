@@ -4,7 +4,9 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Félicitations, vous avez enfin identifié la plateforme de la campagne de désinformation.
+
+Infiltrez le site, prenez le contrôle du serveur qui l'héberge, et neutralisez la plateforme en remplaçant sa page d'accueil par la bannière de saisie officielle du CERT de Tervalis (fournie en pièce jointe : `seized.html`).
 
 ## Recon / Enumeration
 

@@ -4,7 +4,7 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Lors de vos premiers incidents, vous avez identifié l'IP de l'infrastructure C2 que le groupe APT Lynx Varelien a utilisée. Vous décidez de mener une opération de contre-espionnage pour pénétrer dans les couches les plus profondes de cette infrastructure et y enfouir une idée, et déterrer un secret, telle un rêve imbriqué dans un autre. Rentrer dans les rêves d'un fou, on n'aime pas souvent ce qu'on y trouve.
 
 ## Recon / Enumeration
 

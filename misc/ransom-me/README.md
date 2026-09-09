@@ -4,7 +4,9 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+L'Hopital Central de Tervalis (HCT) est victime d'une cyberattaque de type ransomware. Les cinq plateformes medicales - portail public, espaceusager, gestion RH, bloc operatoire, centre de transfusion - sont hors service. Une page de rancon a remplacé l'ensemble des interfaces.
+L'equipe IT de l'HCT a coupé les acces externes et transmis au CERT-TVS un snapshot du serveur ainsi qu'une sauvegarde des derniers logs applicatifs avant chiffrement.
+Votre cellule est mobilisée. Reconstituez la chaine d'attaque, identifiez l'acteur responsable, et tentez de recuperer les donnees chiffrées.
 
 ## Recon / Enumeration
 

@@ -4,7 +4,7 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Le gouvernement de Tervalis attend une révélation. Varelia attend son démenti. Et quelque part entre les deux, une rédaction s'apprête à fabriquer un coupable avec les apparences d'une vérité. Le compte à rebours est lancé : si le dossier Varga atteint le public, le mensonge aura déjà fait son travail.
 
 ## Recon / Enumeration
 

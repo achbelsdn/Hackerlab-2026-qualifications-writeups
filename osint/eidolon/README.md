@@ -4,7 +4,8 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Un enregistrement fuite et accuse Varélia des attaques contre Tervalis. La voix semble réelle. 
+Déterminez si cet enregistrement est authentique ou fabriqué, remontez jusqu'à l'outil et la plateforme qui l'ont produit, et retrouvez qui l'a mis en ligne avant que le faux ne devienne une preuve officielle.
 
 ## Recon / Enumeration
 

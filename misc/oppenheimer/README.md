@@ -4,7 +4,7 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Le portail HackerLab identifie bien cette mission comme **Oppenheimer** (MISC, 70 points), mais son endpoint officiel `/api/v1/missions` ne fournit actuellement aucun texte d’énoncé pour cette fiche. L’énoncé complet sera ajouté dès qu’il sera disponible dans le portail ou fourni par l’organisateur.
 
 ## Recon / Enumeration
 

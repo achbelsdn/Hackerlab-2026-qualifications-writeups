@@ -4,7 +4,7 @@
 
 ## Description
 
-L’énoncé officiel sera ajouté après extraction complète de la fiche du challenge.
+Own Social, le média social par excellence de Tervalis, s'embrase : une campagne accuse Varelia d'avoir commandité les attaques contre Tervalis et ses filiales. Les rédactions traditionnelles ont déjà repris l'histoire. Même si tout semble désigner Varelia, Tervalis ne peut pas laisser son propre média désinformer à cette échelle sans y regarder de près. Une telle accusation peut à elle seule déclencher un incident diplomatique. Nous devons remonter la chaîne jusqu'à la machine qui alimente la campagne avant qu'il ne soit trop tard.
 
 ## Recon / Enumeration
 
