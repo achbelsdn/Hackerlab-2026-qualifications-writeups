@@ -1,6 +1,6 @@
 # Briefing
 
-**Catégorie** : MISC | **Points** : 60 | **Auteur du challenge** : À compléter
+**Catégorie** : MISC | **Points** : 60 | **Auteur du challenge** : Non renseigné sur le portail HackerLab
 
 ## Description
 

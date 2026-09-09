@@ -1,6 +1,6 @@
 # Ghost Authority
 
-**Catégorie** : FORENSICS | **Points** : 200 | **Auteur du challenge** : À compléter
+**Catégorie** : FORENSICS | **Points** : 200 | **Auteur du challenge** : 5c0r7
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Ransom Me
 
-**Catégorie** : MISC | **Points** : 490 | **Auteur du challenge** : À compléter
+**Catégorie** : MISC | **Points** : 490 | **Auteur du challenge** : [mak0ra](https://github.com/mak0ra)
 
 ## Description
 

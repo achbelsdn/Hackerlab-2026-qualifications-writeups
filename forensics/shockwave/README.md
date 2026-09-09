@@ -1,6 +1,6 @@
 # Shockwave
 
-**Catégorie** : FORENSICS | **Points** : 1550 | **Auteur du challenge** : À compléter
+**Catégorie** : FORENSICS | **Points** : 1550 | **Auteur du challenge** : [Sh1n](https://github.com/Sh1n)
 
 ## Description
 

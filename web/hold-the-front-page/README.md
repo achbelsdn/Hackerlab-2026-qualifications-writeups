@@ -1,6 +1,6 @@
 # Hold The Front Page
 
-**Catégorie** : WEB | **Points** : 300 | **Auteur du challenge** : À compléter
+**Catégorie** : WEB | **Points** : 300 | **Auteur du challenge** : 5c0r7
 
 ## Description
 
