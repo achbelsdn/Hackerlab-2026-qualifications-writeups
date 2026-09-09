@@ -1,6 +1,6 @@
 # No Story Left Behind
 
-**Catégorie** : MISC | **Points** : 500 | **Auteur du challenge** : Johans585
+**Catégorie** : MISC | **Points** : 500 | **Auteur du challenge** : [Johans585](https://github.com/Johans585)
 
 ## Description
 
