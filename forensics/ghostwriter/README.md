@@ -1,33 +1,26 @@
 # GhostWriter
 
-**Catégorie** : FORENSICS | **Points** : 380 | **Auteur du challenge** : 5c0r7
+**Catégorie** : FORENSICS | **Points** : 380 | **Auteur du challenge** : [5c0r7](https | **Statut** : ✅ Résolue sur le portail — notes de résolution non archivées
 
 ## Description
 
-Le journaliste Joran Vess a sorti une enquête qui fait mal sur les marchés publics du port
-de Kestrel Bay à Tervalis. Au coeur de son papier, une note interne signée d'un ingénieur de VARELCORP.
-L'entreprise ne conteste pas les chiffres, elle attaque l'homme : selon elle, Vess a
-fabriqué ce document de toutes pièces pour l'enfoncer, et elle demande des poursuites.
-
-Son téléphone a été saisi et placé sous scellé. On vous confie l'extraction complète de sa
-partition /data. À vous de trancher, preuve à l'appui : ce document, il l'a bricolé sur son
-appareil, ou il l'a reçu de quelqu'un ?
+//github.com/5c0r7):Le téléphone du journaliste Joran Vess a été saisi ; extraction complète de sa partition /data. Trancher avec preuve : la note interne VARELCORP de son enquête a-t-elle été fabriquée sur l'appareil ou reçue de quelqu'un ? (Questions portail : Arrival, Barton Fink, Memento, Counterfeit, Another Man.)
 
 ## Recon / Enumeration
 
-Les questions et étapes de résolution seront ajoutées à partir des notes du participant.
+Cette mission a été résolue par l'équipe pendant l'épreuve (validée sur le portail), mais les notes de résolution détaillées n'ont pas été archivées localement : seuls la description officielle et la liste des questions du portail sont conservées ici.
 
 ## Exploitation
 
-À compléter à partir des notes de résolution. Aucun exploit, payload ou flag valide n’est ajouté à ce stade.
+À reconstituer à partir des notes du participant (à compléter).
 
 ## Artefacts
 
-Aucun artefact identifié dans les données actuellement archivées.
+Aucun artefact dédié archivé pour cette mission.
 
 ## Flag
 
-À compléter — aucun flag n’est commis dans cette structure initiale.
+Non reproduit ici.
 
 ## Lessons learned
 

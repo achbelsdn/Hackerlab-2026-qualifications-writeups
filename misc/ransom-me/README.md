@@ -1,28 +1,26 @@
 # Ransom Me
 
-**Catégorie** : MISC | **Points** : 490 | **Auteur du challenge** : [mak0ra](https://github.com/mak0ra)
+**Catégorie** : MISC | **Points** : 490 | **Auteur du challenge** : [mak0ra](https | **Statut** : ✅ Résolue sur le portail — notes de résolution non archivées
 
 ## Description
 
-L'Hopital Central de Tervalis (HCT) est victime d'une cyberattaque de type ransomware. Les cinq plateformes medicales - portail public, espaceusager, gestion RH, bloc operatoire, centre de transfusion - sont hors service. Une page de rancon a remplacé l'ensemble des interfaces.
-L'equipe IT de l'HCT a coupé les acces externes et transmis au CERT-TVS un snapshot du serveur ainsi qu'une sauvegarde des derniers logs applicatifs avant chiffrement.
-Votre cellule est mobilisée. Reconstituez la chaine d'attaque, identifiez l'acteur responsable, et tentez de recuperer les donnees chiffrées.
+//github.com/mak0ra):Ransomware sur les cinq plateformes de l'Hôpital Central de Tervalis. Snapshot serveur + logs applicatifs pré-chiffrement fournis. Mission en 7 questions (Dead Air, Breadcrumbs, Needle, Under the Skin, Phone Home, Loose Cage, The Ashen Seal) : reconstituer la chaîne d'attaque, identifier l'acteur, tenter le déchiffrement.
 
 ## Recon / Enumeration
 
-Les questions et étapes de résolution seront ajoutées à partir des notes du participant.
+Cette mission a été résolue par l'équipe pendant l'épreuve (validée sur le portail), mais les notes de résolution détaillées n'ont pas été archivées localement : seuls la description officielle et la liste des questions du portail sont conservées ici.
 
 ## Exploitation
 
-À compléter à partir des notes de résolution. Aucun exploit, payload ou flag valide n’est ajouté à ce stade.
+À reconstituer à partir des notes du participant (à compléter).
 
 ## Artefacts
 
-Aucun artefact identifié dans les données actuellement archivées.
+Aucun artefact dédié archivé pour cette mission.
 
 ## Flag
 
-À compléter — aucun flag n’est commis dans cette structure initiale.
+Non reproduit ici.
 
 ## Lessons learned
 

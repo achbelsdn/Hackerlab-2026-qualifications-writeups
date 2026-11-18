@@ -1,33 +1,40 @@
 # Hold The Front Page
 
-**Catégorie** : WEB | **Points** : 300 | **Auteur du challenge** : 5c0r7
+**Catégorie** : WEB | **Points** : 300 | **Auteur du challenge** : Non renseigné | **Statut** : ✅ Résolu
 
 ## Description
 
-Vingt minutes. C'est tout ce qu'il reste avant le bouclage de La Vigie Valdorienne, le quotidien de Valdoria-Ville. La Une est déjà calée pour les rotatives : « Varélia démasquée », signée Delphine Ancel. L'article accuse noir sur blanc Varélia des attaques contre Tervalis.
-
-Le CERT n'en est pas sûr : rien ne permet encore d'affirmer que cette accusation est fondée ou qu'elle est montée de toutes pièces pour faire porter le chapeau à Varélia. Mais si l'article part à l'impression sur la seule foi de ce que la rédaction croit détenir, c'est l'incident diplomatique garanti avec Varélia. Et il n'y aura plus moyen de le désamorcer une fois les rotatives lancées.
-
-La cellule de renseignement du TCDA a réussi à obtenir les identifiants d'un pigiste de La Vigie. On a bien fait passer le message à la rédaction de ne pas publier. Mais une réquisition en bonne et due forme prendrait des jours, alors qu'il ne reste que vingt minutes avant le bouclage. Pas le temps d'attendre la voie officielle.
-
-Reste la voie détournée : Compromettre la plateforme interne de La Vigie et annuler la publication
+Empêcher la publication automatique de l'article « Varelia démasquée : les pièces d'une cyber-offensive commanditée ». Deux services : site public (`:8000`) et Studio rédactionnel (`:8001`). Compte fourni : `pigiste_invite` / `pigiste2026` (rôle pigiste, volontairement limité).
 
 ## Recon / Enumeration
 
-Les questions et étapes de résolution seront ajoutées à partir des notes du participant.
+Le dashboard ne montre pas l'article cible : il est programmé dans un contexte éditorial inaccessible au rôle de pigiste. Routes utiles :
+
+- `/dashboard.php`, `/edit.php`, `/draft.php?id=...`, `/submit.php` (soumission à la relecture), `/media.php` (téléversement), `/feed.php?id=...` (métadonnées JSON), `/schedule.php` (gestion de publication).
+- Jeton CSRF présent dans chaque page : `<meta name="csrf-token" content="...">`.
 
 ## Exploitation
 
-À compléter à partir des notes de résolution. Aucun exploit, payload ou flag valide n’est ajouté à ce stade.
+Le rôle de pigiste ne peut pas appeler directement l'action de publication : la chaîne passe par le **bot de relecture**, qui ouvre les brouillons soumis pendant la fenêtre temporelle active (compte à rebours).
+
+1. **Upload SVG actif** — `media.php` accepte un fichier `.svg` servi directement sous `/media/`, sans `Content-Disposition` protecteur : le JavaScript du SVG s'exécute si le fichier est ouvert comme document.
+2. **Iframe dans un brouillon** — le SVG est chargé dans une iframe injectée dans un brouillon (`edit.php`).
+3. **Soumission à la relecture** — `submit.php` pendant la fenêtre active : le bot ouvre le brouillon et exécute le JS dans le contexte du Studio.
+4. **Payload** — `fetch('/dashboard.php').text()` puis extraction dynamique du jeton CSRF par regex (`csrf-token`) ; appel POST à `/compte.php` pour élever le contexte éditorial (`display=Roland Solari…`) ; extraction des IDs d'articles cibles ; appel à `schedule.php` avec l'action **`hold`** pour annuler la publication.
+
+> Respecter l'état attendu par l'application : l'action correcte est `hold` (pas `cancel`), et le bot n'évalue le payload que pendant le compte à rebours.
 
 ## Artefacts
 
-Aucun artefact identifié dans les données actuellement archivées.
+- `~/ctf/knowledge/writeups/writeup-hold-the-front-page.md` — writeup complet.
+- `~/vigie-evil.svg` — payload SVG XSS/CSRF (réutilisé pour Vigie).
 
 ## Flag
 
-À compléter — aucun flag n’est commis dans cette structure initiale.
+Dynamique par instance (non reproduit ici).
 
 ## Lessons learned
 
-À compléter.
+- Un SVG servi même-origine sans `Content-Disposition: attachment` permet l'exécution JavaScript dans le contexte de l'application.
+- `fetch(...).text()` + regex pour extraire dynamiquement un CSRF est très fiable pour chaîner XSS → CSRF.
+- Un bot de relecture = oracle d'exécution : lui faire faire les actions que le rôle interdit.

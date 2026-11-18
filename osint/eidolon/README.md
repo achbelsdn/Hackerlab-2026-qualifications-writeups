@@ -1,27 +1,26 @@
 # Eidolon
 
-**Catégorie** : OSINT | **Points** : 370 | **Auteur du challenge** : [Sh1n](https://github.com/Sh1n)
+**Catégorie** : OSINT | **Points** : 370 | **Auteur du challenge** : [Sh1n](https | **Statut** : ✅ Résolue sur le portail — notes de résolution non archivées
 
 ## Description
 
-Un enregistrement fuite et accuse Varélia des attaques contre Tervalis. La voix semble réelle. 
-Déterminez si cet enregistrement est authentique ou fabriqué, remontez jusqu'à l'outil et la plateforme qui l'ont produit, et retrouvez qui l'a mis en ligne avant que le faux ne devienne une preuve officielle.
+//github.com/Sh1n):Un enregistrement fuité accuse Varélia des attaques contre Tervalis. La voix semble réelle. Déterminer si l'enregistrement est authentique ou fabriqué, remonter jusqu'à l'outil et la plateforme qui l'ont produit, et retrouver qui l'a mis en ligne. (Questions portail : Simulacrum, Eshu, Sphinx, Great Sage Equal to Heaven.)
 
 ## Recon / Enumeration
 
-Les questions et étapes de résolution seront ajoutées à partir des notes du participant.
+Cette mission a été résolue par l'équipe pendant l'épreuve (validée sur le portail), mais les notes de résolution détaillées n'ont pas été archivées localement : seuls la description officielle et la liste des questions du portail sont conservées ici.
 
 ## Exploitation
 
-À compléter à partir des notes de résolution. Aucun exploit, payload ou flag valide n’est ajouté à ce stade.
+À reconstituer à partir des notes du participant (à compléter).
 
 ## Artefacts
 
-Aucun artefact identifié dans les données actuellement archivées.
+Aucun artefact dédié archivé pour cette mission.
 
 ## Flag
 
-À compléter — aucun flag n’est commis dans cette structure initiale.
+Non reproduit ici.
 
 ## Lessons learned
 

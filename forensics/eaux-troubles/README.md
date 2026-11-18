@@ -1,28 +1,26 @@
 # Eaux Troubles
 
-**Catégorie** : FORENSICS | **Points** : 860 | **Auteur du challenge** : [uchiwa](https://github.com/uchiwa)
+**Catégorie** : FORENSICS | **Points** : 860 | **Auteur du challenge** : [uchiwa](https | **Statut** : ✅ Résolue sur le portail — notes de résolution non archivées
 
 ## Description
 
-Un administrateur de la centrale de gestion d'eau de Tervalis a signalé des comportements suspects sur sa machine après avoir exécuté un fichier. Il a notamment remarqué l'ouverture et la fermeture rapide de fenêtres de commande.
-
-Le CSIRT de Tervalis a immédiatement ouvert une investigation sur une probable information de la machine.
+//github.com/uchiwa):Compromission du poste d'un administrateur de la centrale de gestion d'eau de Tervalis après exécution d'un fichier (fenêtres cmd fugaces). Mission en 10 questions (Prémices, Under Pressure, Submerged, Wet memory, Secret Echo, Deep Layer, Tic Tac Backdoor, Go or Bust, Mr Host, Can't Kill Me) : investigation mémoire/disque de l'infection.
 
 ## Recon / Enumeration
 
-Les questions et étapes de résolution seront ajoutées à partir des notes du participant.
+Cette mission a été résolue par l'équipe pendant l'épreuve (validée sur le portail), mais les notes de résolution détaillées n'ont pas été archivées localement : seuls la description officielle et la liste des questions du portail sont conservées ici.
 
 ## Exploitation
 
-À compléter à partir des notes de résolution. Aucun exploit, payload ou flag valide n’est ajouté à ce stade.
+À reconstituer à partir des notes du participant (à compléter).
 
 ## Artefacts
 
-Aucun artefact identifié dans les données actuellement archivées.
+Aucun artefact dédié archivé pour cette mission.
 
 ## Flag
 
-À compléter — aucun flag n’est commis dans cette structure initiale.
+Non reproduit ici.
 
 ## Lessons learned
 
